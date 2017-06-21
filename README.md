@@ -3,7 +3,7 @@
 
 > Docente: Dr. Germán Rosati
 
-## Presentación y objetivo del curso:
+## Presentación y objetivos
 Debido a su carácter de software libre y a la creciente comunidad de usuarios el lenguaje R se ha convertido en algo así como la _lingua franca_ dentro del análisis estadístico. El presente seminario se propone realizar una introducción a algunos conceptos fundamentales de la ciencia estadística utilizando como soporte el lenguaje R.
 
 El curso se propone que los alumnos:
@@ -13,7 +13,7 @@ El curso se propone que los alumnos:
 - generen visualizaciones básicas e intermedias de información en R
 - logren identificar situaciones de aplicación de este tipo de modelos a problemas de investigación básica y aplicada vinculados a sus respectivas áreas de trabajo
 
-## Destinatarios del curso:
+## Destinatarios
 Personal profesional, técnico y/o administrativo de la ANMAT que requieran el uso de herramientas estadísticas básicas para sus tareas.
 
 ## Requisitos para la cursada y aprobación
