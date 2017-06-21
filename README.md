@@ -13,6 +13,9 @@ El curso se propone que los alumnos:
 - generen visualizaciones básicas e intermedias de información en R
 - logren identificar situaciones de aplicación de este tipo de modelos a problemas de investigación básica y aplicada vinculados a sus respectivas áreas de trabajo
 
+## Destinatarios del curso:
+Personal profesional, técnico y/o administrativo de la ANMAT que requieran el uso de herramientas estadísticas básicas para sus tareas.
+
 ## Requisitos para la cursada y aprobación
 Conocimientos básicos de estadística descriptiva y cierta familiaridad con el modelo de regresión lineal y logística.
 Para la aprobación del curso se requiere:
