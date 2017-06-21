@@ -1,4 +1,4 @@
-# FOPESA-ANMAT
+# FOPEVISA-ANMAT
 # Curso Introdución a la Estadística con R
 
 > Docente: Dr. Germán Rosati
